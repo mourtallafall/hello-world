@@ -1,2 +1,3 @@
 # hello-world
 Mourtalla's 1st step in Github
+I am here to learn coding because I plan to make some applications for data collection...
